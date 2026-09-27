@@ -10,9 +10,10 @@ Foto:
 
 Resumo:
 
-Neste trabalho fizemos dois minijogos em Python. No primeiro, a máquina escolhe um número aleatório e temos de tentar adivinhá-lo, recebendo dicas para saber se o número é maior ou menor. No segundo, somos nós a escolher um número e a máquina tenta adivinhá-lo através das dicas que lhe damos. Para fazer os jogos utilizámos ciclos, condições, variáveis e comandos de entrada e saída.
+Neste trabalho fiz dois minijogos em Python. No primeiro ([Jogo 1](jogo1.py)), a máquina escolhe um número aleatório e temos de tentar adivinhá-lo, recebendo dicas para saber se o número é maior ou menor. No segundo ([Jogo 2](jogo2.py)) , somos nós a escolher um número e a máquina tenta adivinhá-lo através das dicas que lhe damos. Para fazer os jogos utilizámos ciclos, condições, variáveis e comandos de entrada e saída.
 
 Resultados:
 
 [Jogo 1](jogo1.py)
+
 [Jogo 2](jogo2.py)
