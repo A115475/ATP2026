@@ -1,4 +1,4 @@
-### Título: Trabalho de casa 3: Corrida para o 100
+###Trabalho de casa 3: Corrida para o 100
 
 Nome: Afonso Gonçalves Rodrigues
 
