@@ -15,5 +15,5 @@ Neste trabalho fiz um programa, [Aplicação](app.py), que permite criar e ler l
 
 Resultados:
 
-[Jogo](app.py)
+[Aplicação](app.py)
 
