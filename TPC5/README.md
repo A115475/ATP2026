@@ -1,4 +1,4 @@
-### Trabalho de casa 3: Aplicação 
+### Trabalho de casa 3: Aplicação - Gestão de Turma
 
 Nome: Afonso Gonçalves Rodrigues
 
