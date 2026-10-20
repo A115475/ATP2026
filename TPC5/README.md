@@ -10,8 +10,6 @@ Foto:
 
 Resumo:
 
-Aqui tens uma versão mais resumida e direta ao assunto, já com o destaque para as tuas validações contra erros:
-
 Neste trabalho fiz um programa, [Aplicação](app.py), com um menu interativo para gerir uma turma (criar aluno, inserir aluno, listar, consultar por ID, e guardar/carregar em ficheiro). Para tornar a aplicação mais robusta e evitar erros, implementei validações extra, como verificar se um ID já existe antes de inserir o aluno, obrigar a que as notas sejam entre 0 e 20, e confirmar se a turma não está vazia antes de tentar listar ou guardar os dados num ficheiro.
 
 Resultados:
